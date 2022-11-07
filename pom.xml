@@ -3,9 +3,9 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
     <groupId>br.uff.ic.qet.exselenium</groupId>
-    <artifactId>exselenium</artifactId>
+    <artifactId>beyonce_teste_idade</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>exselenium</name>
+    <name>beyonce_teste_idade</name>
     
     
     <properties>
